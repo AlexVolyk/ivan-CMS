@@ -1,0 +1,132 @@
+{
+    "total_statistic": {
+        "bargin": 447805.0,
+        "valid_bargin": 454445.9090909091,
+        "the_rest_of_goods": 0.0,
+        "sold_goods": 1329,
+        "unsold_goods": 27,
+        "summ": 384894.98,
+        "sum_of_deliver": 10818.0,
+        "total__sum_sum_of_deliver": 388245.0,
+        "total_goods": 1356
+    },
+    "statistic": {
+        "2022": {
+            "month": {
+                "06": {
+                    "bargin": 27970,
+                    "valid_bargin": 27970.0,
+                    "the_rest_of_goods": 0,
+                    "sold_goods": 115,
+                    "unsold_goods": 11,
+                    "summ": 32460.0,
+                    "sum_of_deliver": 690.0,
+                    "total__sum_sum_of_deliver": 33150.0,
+                    "total_goods": 126
+                },
+                "08": {
+                    "bargin": 56880.0,
+                    "valid_bargin": 60316.0,
+                    "the_rest_of_goods": 0.0,
+                    "sold_goods": 195,
+                    "unsold_goods": 11,
+                    "summ": 53903.0,
+                    "sum_of_deliver": 1722.0,
+                    "total__sum_sum_of_deliver": 55625,
+                    "total_goods": 206
+                },
+                "12": {
+                    "bargin": 44175.0,
+                    "valid_bargin": 44175.0,
+                    "the_rest_of_goods": 0.0,
+                    "sold_goods": 62,
+                    "unsold_goods": 0,
+                    "summ": 29050.0,
+                    "sum_of_deliver": 825.0,
+                    "total__sum_sum_of_deliver": 29875,
+                    "total_goods": 62
+                },
+                "05": {
+                    "bargin": 42616,
+                    "valid_bargin": 42616.0,
+                    "the_rest_of_goods": 0,
+                    "sold_goods": 172,
+                    "unsold_goods": 0,
+                    "summ": 47673.0,
+                    "sum_of_deliver": 961.0,
+                    "total__sum_sum_of_deliver": 48634,
+                    "total_goods": 172
+                },
+                "10": {
+                    "bargin": 36703.0,
+                    "valid_bargin": 38595.454545454544,
+                    "the_rest_of_goods": 0.0,
+                    "sold_goods": 108,
+                    "unsold_goods": 3,
+                    "summ": 50408.1,
+                    "sum_of_deliver": 1620.0,
+                    "total__sum_sum_of_deliver": 52027,
+                    "total_goods": 111
+                },
+                "11": {
+                    "bargin": 116926.0,
+                    "valid_bargin": 118238.45454545454,
+                    "the_rest_of_goods": 0.0,
+                    "sold_goods": 222,
+                    "unsold_goods": 2,
+                    "summ": 116247.15,
+                    "sum_of_deliver": 3258.0,
+                    "total__sum_sum_of_deliver": 119504,
+                    "total_goods": 224
+                },
+                "09": {
+                    "bargin": 49396.0,
+                    "valid_bargin": 49396.0,
+                    "the_rest_of_goods": 0.0,
+                    "sold_goods": 185,
+                    "unsold_goods": 0,
+                    "summ": 24483.0,
+                    "sum_of_deliver": 936.0,
+                    "total__sum_sum_of_deliver": 17954.0,
+                    "total_goods": 185
+                },
+                "07": {
+                    "bargin": 36419.0,
+                    "valid_bargin": 36419.0,
+                    "the_rest_of_goods": 0.0,
+                    "sold_goods": 142,
+                    "unsold_goods": 0,
+                    "summ": 30670.73,
+                    "sum_of_deliver": 806.0,
+                    "total__sum_sum_of_deliver": 31476,
+                    "total_goods": 142
+                }
+            },
+            "year": {
+                "bargin": 411085.0,
+                "valid_bargin": 417725.9090909091,
+                "the_rest_of_goods": 0.0,
+                "sold_goods": 1201,
+                "unsold_goods": 27,
+                "summ": 384894.98,
+                "sum_of_deliver": 10818.0,
+                "total__sum_sum_of_deliver": 388245.0,
+                "total_goods": 1228
+            }
+        },
+        "\u0421\u0442\u0430\u0440\u0456": {
+            "month": {},
+            "year": {
+                "bargin": 36720.0,
+                "valid_bargin": 36720.0,
+                "the_rest_of_goods": 0.0,
+                "sold_goods": 128,
+                "unsold_goods": 0,
+                "summ": 0,
+                "sum_of_deliver": 0,
+                "total__sum_sum_of_deliver": 0.0,
+                "total_goods": 128
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "main_data": [
+
+    ],
+    "unique": {
+        "arr_brand": {
+            "data": []
+        },
+        "arr_type": {
+            "data": []
+        },
+        "arr_country": {
+            "data": []
+        },
+        "arr_size": {
+            "data": []
+        },
+        "arr_sm": {
+            "data": []
+        },
+        "arr_date": {
+            "data": []
+        }
+    }
+}
